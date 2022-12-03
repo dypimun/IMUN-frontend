@@ -225,7 +225,7 @@
 
 
 .fifth-page{
-    background-image: url(images/ghg-min.jpg);
+    background-image: url(../logo/speech-bg.jpg);
     background-position: 50% 50%;
     height: 100vh;
     background-size: cover;
@@ -281,7 +281,6 @@
 }
 
 .research-img{
-    min-height: 703px;
     width: 100%;
     background-image: url(images/-min2.jpg);
     background-position: 50% 50%;
@@ -407,5 +406,9 @@
 
     .r-c-container-empty{
         max-width: 41.66666667%;
+    }
+
+    .pos-con{
+        width: 50%;
     }
 }
