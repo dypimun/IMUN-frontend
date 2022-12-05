@@ -65,8 +65,11 @@
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color:rgb(0, 0, 194) ;
+  background-color:rgb(162, 0, 194) ;
   transform-origin: center;
   transition: transform 0.25s ease-out;
 }
 
+.nav-item a:hover{
+    color: rgb(84, 0, 129);
+}
